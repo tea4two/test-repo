@@ -1,2 +1,4 @@
-# test-repo
-Excercise repo.
+hello world
+===========
+My first repository on GitHub!
+I love: :coffee: , :pizza: , :smile: , :dancer:
